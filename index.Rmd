@@ -44,7 +44,7 @@ This is my first tab an I can do stuff
 
 ### By Region
 
-THis is my second tab and it does other stuff
+This is my second tab and it does other stuff
 
 ## This is a new section
 

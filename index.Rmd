@@ -2,6 +2,7 @@
 title: "My awesome website"
 output: 
   html_document:
+    code_folding: hide
     toc: true
     toc_float: true
 ---
@@ -34,4 +35,19 @@ Here's my best friend Rosie:
 # Link to page within the site
 
 [About me](about.html)
+
+## Quarterly Results {.tabset}
+
+### By Product
+
+This is my first tab an I can do stuff
+
+### By Region
+
+THis is my second tab and it does other stuff
+
+## This is a new section
+
+and it's really great!
+
 
